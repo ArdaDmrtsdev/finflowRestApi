@@ -4,6 +4,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Hibernate](https://img.shields.io/badge/Hibernate-JPA-brown)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
+[![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?logo=swagger&logoColor=black)](http://localhost:8080/swagger-ui/index.html)
 
 
 
