@@ -16,7 +16,7 @@
 
 ## ER Diagram
 
-![ER Diagram](ERD.png)
+![ER Diagram](assets/ERD.png)
 
 
 <br>
@@ -25,7 +25,7 @@
 
 ## Swagger
 
-![Swagger API Documentation](Swagger.png)
+![Swagger API Documentation](assets/Swagger.png)
 
 
 
