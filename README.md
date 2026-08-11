@@ -18,7 +18,7 @@
 
 ![ER Diagram](assets/ERD.png)
 
-### 🔗 Entity Relationships
+###  Entity Relationships
 
 * **User ↔ RefreshToken (1 : N):** A single user can have multiple active or expired refresh tokens for session management.
 * **User ↔ Customer (1 : 1):** Each authentication user account maps to exactly one customer profile.
