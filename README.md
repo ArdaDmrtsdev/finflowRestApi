@@ -18,6 +18,14 @@
 
 ![ER Diagram](assets/ERD.png)
 
+### 🔗 Entity Relationships
+
+* **User ↔ RefreshToken (1 : N):** A single user can have multiple active or expired refresh tokens for session management.
+* **User ↔ Customer (1 : 1):** Each authentication user account maps to exactly one customer profile.
+* **Customer ↔ Account (1 : N):** A customer can own multiple bank accounts (e.g., savings, checking).
+* **Account ↔ Card (1 : N):** An account can have multiple debit or credit cards linked to it.
+* **Account ↔ Transaction (1 : N):** An account can participate in multiple financial transactions as either the sender (`sender_account_id`) or receiver (`receiver_account_id`).
+
 
 <br>
 <br>
