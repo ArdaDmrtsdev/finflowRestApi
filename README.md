@@ -45,5 +45,7 @@ Prerequisites and Installation
 You need to obtain an API key from the TCMB EVDS system.
 Create a Secret Key that conforms to the HS256 algorithm for JWT validation.
 Before running the application, ensure that you have correctly filled in the relevant fields in the application.properties file.
+To view the services regularly, you need to enter this into your browser after starting Spring.
+http://localhost:8080/swagger-ui/index.html
 
 Prepared by Arda Demirtas.
